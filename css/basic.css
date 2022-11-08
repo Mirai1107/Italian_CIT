@@ -6,13 +6,16 @@ body{
 }
 
 header{
-    height:120px;
+    height: 100px;
     background-color: #131313;
     white-space: nowrap;
 }
 
 header h1{
+    height: 60px;
     margin: 10px;
+    margin-bottom: -10px;
+    line-height: 60px;
 }
 
 header p{
@@ -58,12 +61,23 @@ footer p{
     text-align: center;
 }
 
+#about{
+    text-align: center;
+}
+
+#about h2{
+    height: 50px;
+    line-height: 50px;
+}
+
 #pasta_v{
     margin: 20px;
+    margin-top: -20px;
     float: left;
 }
 
 #wine_v{
     margin: 20px;
+    margin-top: -20px;
     float: left;
 }
