@@ -16,6 +16,7 @@ header{
 header h1{
     height: 60px;
     margin: 10px;
+    margin-top: 0px;
     margin-bottom: 0px;
     line-height: 60px;
 }
@@ -136,4 +137,105 @@ footer p{
     height: 168px;
     margin-top: 51px;
     margin-bottom: 51px;
+}
+
+#more{
+    text-align: center;
+}
+
+#more h3{
+    margin-top: 30px;
+}
+
+#menu{
+    text-align: center;
+}
+
+#page_food{
+    height: 2850px;
+}
+
+#page_drink{
+    height: 1100px;
+}
+
+#page_course{
+    width: 1040px;
+    height: 720px;
+}
+
+.menu{
+    width: 310px;
+    height: 400px;
+    float: left;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #ffffff;
+    margin: 13px;
+}
+
+.menu h4{
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.menu_p{
+    width: 300px;
+    height: 300px;
+    margin: 5px;
+}
+
+#more3_menu{
+    width: 600px;
+    height: 600px;
+    margin-left: 10px;
+    float: left;
+}
+
+#menu_ul{
+    width: 700px;
+    margin-top: 0px;
+    margin-bottom: 8px;
+    margin-left: 280px;
+    padding: 0px;
+    display: flex;
+    list-style: none;
+}
+
+#menu_ul a{
+    background-color: #ffffff;
+    color:#131313;
+    line-height: 40px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    display: block;
+}
+
+#menu_ul li{
+    height: 40px;
+    width: 130px;
+    margin-left: 15px;
+    margin-right: 15px;
+    line-height: 40px; 
+    text-align: center;
+    white-space: nowrap;
+}
+
+#course_ul{
+    width: 300px;
+    height: 250px;
+    margin-top: 180px;
+    float: left;
+}
+
+#course_li li{
+    list-style: none;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#otosh{
+    width: 300px;
+    height: 300px;
 }
