@@ -7,22 +7,41 @@ body{
 }
 
 header{
-    height: 100px;
+    height: 150px;
     background-color: #131313;
     text-align: center;
     white-space: nowrap;
 }
 
-header h1{
-    height: 60px;
-    margin: 10px;
+#title_r{
+    height: 90px;
+    width: 370px;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 0px;
     margin-bottom: 0px;
     line-height: 60px;
 }
 
+#title_r h1{
+    margin: 10px;
+    margin-top: 20px;
+    float: left;
+}
+
+#title_r img{
+    margin: 10px;
+    margin-top: 20px;
+    float: left;
+}
+
+
 header p{
     margin-left: 10px;
+}
+
+header img{
+    float: right;
 }
 
 nav{
