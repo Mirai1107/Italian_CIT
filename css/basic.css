@@ -161,7 +161,7 @@ footer p{
 
 #page_course{
     width: 1040px;
-    height: 720px;
+    height: 450px;
 }
 
 .menu{
@@ -186,9 +186,7 @@ footer p{
 }
 
 #more3_menu{
-    width: 600px;
-    height: 600px;
-    margin-left: 10px;
+    margin-left: 200px;
     float: left;
 }
 
@@ -225,7 +223,7 @@ footer p{
 #course_ul{
     width: 300px;
     height: 250px;
-    margin-top: 180px;
+    margin-top: 90px;
     float: left;
 }
 
